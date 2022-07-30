@@ -1,0 +1,23 @@
+.main{
+    margin-top: 30px
+}
+
+.main_heading{
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+body { 
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    margin: 0;
+}
+
+
+footer {
+    position:fixed;
+    bottom:0;
+    width:100%;
+    text-align: center;
+    margin: 0 auto;
+}
